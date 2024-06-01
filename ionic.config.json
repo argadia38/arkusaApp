@@ -1,0 +1,7 @@
+{
+  "name": "arkusaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
