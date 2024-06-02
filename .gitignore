@@ -3,7 +3,7 @@
 
 
 #env
-/environments
+environments/
 
 *~
 *.sw[mnpcod]
