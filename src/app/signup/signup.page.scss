@@ -1,0 +1,21 @@
+ion-content {
+  --background: url('/assets/background/login-bg.svg') no-repeat center center / cover;
+}
+
+@media (min-width: 600px) {
+  ion-content {
+    --background: url('/assets/background/login-bg.svg') no-repeat center center / 180%;
+    // background-size: ;
+
+  }
+
+}
+
+@media (max-width: 400px) {
+  ion-content {
+    --background: url('/assets/background/login-bg.svg') no-repeat center center / 179%;
+    // background-size: ;
+
+  }
+
+}
